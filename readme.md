@@ -1,0 +1,1 @@
+-   [2023 Mirror](https://sorahisa-rank.github.io/oi-ceoi/2023/mirror/ranking/)
